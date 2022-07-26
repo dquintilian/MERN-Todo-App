@@ -1,5 +1,5 @@
 # MERN-Todo-App
-This is a project I undertook to deepen my understanding of full stack development.
+## Goal: This is a project I undertook to deepen my understanding of full stack development.
 
 The project was built using React, Express, Node and MongoDB
 
